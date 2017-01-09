@@ -1,0 +1,78 @@
+[
+  {
+    "name": "Dr. Strange",
+    "image": "dr_strange",
+    "refs": ["Thor"]
+  },
+  {
+    "name": "Iron Man",
+    "image": "ironman",
+    "refs": ["S.H.I.E.L.D"]
+  },
+  {
+    "name": "The Incredible Hulk",
+    "image": "incredible_hulk",
+    "refs": ["Avengers"]
+  },
+  {
+    "name": "Thor",
+    "image": "thor",
+    "refs": ["S.H.I.E.L.D"]
+  },
+  {
+    "name": "Iron Man 2",
+    "image": "ironman",
+    "refs": ["Thor", "Avengers2"]
+  },
+  {
+    "name": "S.H.I.E.L.D",
+    "image": "shield",
+    "refs": []
+  },
+  {
+    "name": "Avengers",
+    "image": "avengers",
+    "refs": []
+  },
+  {
+    "name": "captainAmerica",
+    "image": "captainAmerica",
+    "refs": ["Avengers"]
+  },
+  {
+    "name": "Guardians",
+    "image": "guardians",
+    "refs": ["Avengers"]
+  },
+  {
+    "name": "Avengers2",
+    "image": "avengers",
+    "refs": []
+  },
+  {
+    "name": "antman",
+    "image": "antman",
+    "refs": ["captainAmerica3"]
+  },
+  {
+    "name": "Thor2",
+    "image": "thor",
+    "refs": ["captainAmerica2", "Guardians"]
+  },
+  {
+    "name": "captainAmerica2",
+    "image": "captainAmerica",
+    "refs": ["captainAmerica3"]
+  },
+  {
+    "name": "captainAmerica3",
+    "image": "captainAmerica",
+    "refs": ["spiderman"]
+  },
+  {
+    "name": "spiderman",
+    "image": "spiderman",
+    "refs": []
+  }
+
+]
